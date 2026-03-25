@@ -90,6 +90,7 @@ body {
     color: white;
     padding: 20px;
     background-color: black;
+    margin-top: 0; 
 }
 a:link {
     color: white;
