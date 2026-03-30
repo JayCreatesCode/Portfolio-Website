@@ -139,3 +139,20 @@ a:active {
     margin-bottom: 15px;
     background-color: rgb(122, 3, 3);
 }
+
+.section-one-container {
+    height: 140px;
+    padding: 18px;
+    background: purple;
+    border: 4px solid;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.box-item {
+    width: 60px;
+    height: 60px;
+    border: 4px black;
+    background: skyblue;
+}
