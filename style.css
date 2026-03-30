@@ -155,4 +155,5 @@ a:active {
     height: 60px;
     border: 4px black;
     background: skyblue;
+    flex: 1 1 auto;
 }
